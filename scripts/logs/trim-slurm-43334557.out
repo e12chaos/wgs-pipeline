@@ -1,0 +1,18 @@
+TrimmomaticPE: Started with arguments:
+ ../data/BM002F_A_S3_L001_R1_001.fastq.gz ../data/BM002F_A_S3_L001_R2_001.fastq.gz ../output/trim/BM002F_A_S3_L001_R1_001_paired.fastq.gz ../output/trim/BM002F_A_S3_L001_R1_001_unpaired.fastq.gz ../output/trim/BM002F_A_S3_L001_R2_001_paired.fastq.gz ../output/trim/BM002F_A_S3_L001_R2_001_unpaired.fastq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Multiple cores found: Using 4 threads
+Using Long Clipping Sequence: 'CTGTCTCTTATACACATCT+ATGTGTATAAGAGACA'
+Skipping duplicate Clipping Sequence: 'CTGTCTCTTATACACATCT+ATGTGTATAAGAGACA'
+ILLUMINACLIP: Using 0 prefix pairs, 1 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 583842632 Both Surviving: 563174210 (96.46%) Forward Only Surviving: 8072620 (1.38%) Reverse Only Surviving: 11469803 (1.96%) Dropped: 1125999 (0.19%)
+TrimmomaticPE: Completed successfully
+TrimmomaticPE: Started with arguments:
+ ../data/BM002M_A_S2_L001_R1_001.fastq.gz ../data/BM002M_A_S2_L001_R2_001.fastq.gz ../output/trim/BM002M_A_S2_L001_R1_001_paired.fastq.gz ../output/trim/BM002M_A_S2_L001_R1_001_unpaired.fastq.gz ../output/trim/BM002M_A_S2_L001_R2_001_paired.fastq.gz ../output/trim/BM002M_A_S2_L001_R2_001_unpaired.fastq.gz ILLUMINACLIP:adapters.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Multiple cores found: Using 4 threads
+Using Long Clipping Sequence: 'CTGTCTCTTATACACATCT+ATGTGTATAAGAGACA'
+Skipping duplicate Clipping Sequence: 'CTGTCTCTTATACACATCT+ATGTGTATAAGAGACA'
+ILLUMINACLIP: Using 0 prefix pairs, 1 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 475449249 Both Surviving: 459595847 (96.67%) Forward Only Surviving: 5777067 (1.22%) Reverse Only Surviving: 9155578 (1.93%) Dropped: 920757 (0.19%)
+TrimmomaticPE: Completed successfully
