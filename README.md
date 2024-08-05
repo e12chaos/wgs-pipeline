@@ -25,18 +25,18 @@ Ensure the following tools are installed and accessible in your environment:
 
 ## Directory Structure
 
-project_directory/
-├── data/
-│   ├── raw/
-│   └── hg38.fa
-├── scripts/
-│   ├── qc.sh
-│   ├── trimming.sh
-│   ├── alignment.sh
-│   └── variant_calling.sh
-├── output/
-│   ├── qc/
-│   ├── trimmed/
-│   ├── aligned/
-│   └── variants/
-└── README.md
+project_directory/<br/>
+├── data/<br/>
+│   ├── raw/<br/>
+│   └── hg38.fa<br/>
+├── scripts/<br/>
+│   ├── qc.sh<br/>
+│   ├── trimming.sh<br/>
+│   ├── alignment.sh<br/>
+│   └── variant_calling.sh<br/>
+├── output/<br/>
+│   ├── qc/<br/>
+│   ├── trimmed/<br/>
+│   ├── aligned/<br/>
+│   └── variants/<br/>
+└── README.md<br/>
